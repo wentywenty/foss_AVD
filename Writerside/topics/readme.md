@@ -146,19 +146,33 @@
 文件相关的开源项目列表如下：
 
 数据备份 FOSS
+
 链接: https://github.com/XayahSuSuSu/Android-DataBackup
+
 描述: 这是一个Android数据备份的开源项目，可能提供了将重要数据导出到本地存储或云服务的功能，并在需要时进行还原，增强了数据管理的便利性。
+
 Material Files
+
 链接: https://github.com/zhanghai/MaterialFiles
+
 描述: Material Files 是一款基于Material Design设计原则的文件管理器应用，提供了直观易用的界面和丰富的文件管理功能，如浏览、复制、移动、重命名和删除文件等。
+
 Amarok FOSS
+
 链接: https://github.com/deltazefiro/Amarok-Hider
+
 描述: 从链接和描述来看，Amarok FOSS 可能与文件隐藏或加密相关。Amarok-Hider 可能是一个用于隐藏或保护敏感文件的工具，确保数据的安全性和隐私性。
+
 Nextcloud
+
 链接: https://github.com/nextcloud/android
+
 描述: Nextcloud的Android客户端，允许用户访问、同步和管理存储在Nextcloud服务器上的文件。Nextcloud是一个自托管的云存储解决方案，提供了文件同步、共享和协作编辑等功能，确保数据的隐私性和安全性。
+
 SD Maid SE
+
 链接: https://github.com/d4rken-org/sdmaid-se
+
 描述: SD Maid SE（又名SD Maid 2）是一款专门用于维护Android设备的文件管理工具。它提供了垃圾清理、应用程序管理、文件管理等功能，帮助用户释放存储空间、优化设备性能。SD Maid SE还提供了文件搜索、文件预览等实用功能，使文件管理更加方便快捷。
 
 在聊天和通讯的开源项目方面，您提供的列表中有一些并不直接涉及聊天功能，但我可以针对其中与聊天和通讯相关的部分进行介绍。
